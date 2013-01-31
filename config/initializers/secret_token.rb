@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Yicai::Application.config.secret_token = 'a84c7996cf76945302934190feef1e911b5bb2f940d3b07204d709dca79afad2b186cc1a5daf0ef0473057439863f741065a35de1674a9f97547c402bed63a95'
+Yicai::Application.config.secret_token = 'de1d2fcbd76dcd4c465b84530a6029b0a57fe9894d17e7139261156340894280b8fbbd1ef7b846a5e92ee57536bb0a6dbf07bd25476262417333a2aa1b38ccdc'
